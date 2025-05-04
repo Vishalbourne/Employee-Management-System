@@ -35,11 +35,8 @@ A responsive and dynamic Employee Management System built using **React**. This 
 
 ## Screenshots
 
-![Login](./assets/Login.png)
-![Admin Panel](./assets/Admin.png)
-![Employee](./assets/Employee.png)
-
-
-
+![Login](https://github.com/user-attachments/assets/868df7f2-fdc3-4eec-a379-547c8d604973)
+![Employee](https://github.com/user-attachments/assets/abf38dfb-c8af-4a5c-8d57-11f5bb01a464)
+![Admin](https://github.com/user-attachments/assets/6fd88e21-6261-4c6b-a3c3-a5d640c7fae8)
 
 
