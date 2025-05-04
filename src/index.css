@@ -1,0 +1,27 @@
+@import "tailwindcss";
+*{
+  color: #fff;
+}
+body{
+  background-color: #222;
+}
+
+
+#tasklist {
+  overflow: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE & Edge */
+}
+
+#tasklist::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
+
+/* In index.css or App.css */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
